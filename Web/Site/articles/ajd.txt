@@ -1,0 +1,12 @@
+Séance 10 / 11
+
+Objectifs:
+Pour l'équipe informatique:
+- Ecrire script permettant l'activation conditionnelle de la pompe à eau selon les informations transmises par le capteur d'humidité.
+(Activation en fonction d'un seuil).
+- Intégrer le RasPI au circuit.
+On ne se sert pas encore du rasPI
+Equipe MP:
+?
+Organisationnel:
+Github

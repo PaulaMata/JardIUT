@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ARTICLE>
+
+  <TITRE></TITRE>
+  <DATE>jj/mm/aaaa</DATE>
+  <AUTEUR></AUTEUR>
+  <ILLUSTRATION></ILLUSTRATION>
+
+  <TEXTE>
+
+  </TEXTE>
+
+</ARTICLE>

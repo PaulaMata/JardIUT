@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ARTICLE>
+
+  <TITRE>Compte rendu du 03/11/2016 [A FAIRE]</TITRE>
+  <DATE>xx/11/2016</DATE>
+  <AUTEUR>Marceau Jeanjean</AUTEUR>
+  <ILLUSTRATION>arduino.jpg</ILLUSTRATION>
+
+  <TEXTE>
+      contenu de l'article, contenu de l'article./saut
+      contenu de l'article.. saute saute
+  </TEXTE>
+
+</ARTICLE>
